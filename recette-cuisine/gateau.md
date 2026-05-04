@@ -1,1 +1,1 @@
-"# Recette gƒteau" 
+"# Recette du gƒteau au chocolat" 
