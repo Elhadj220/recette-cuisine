@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "# Recette du g�teau au chocolat" 
 # Recette du gâteau au chocolat
 
@@ -14,3 +15,6 @@
 3. Ajouter le sucre puis les œufs un à un
 4. Incorporer la farine
 5. Verser dans un moule et cuire 25 minutes
+=======
+"# Recette du g�teau au chocolat" 
+>>>>>>> feature-gateau
